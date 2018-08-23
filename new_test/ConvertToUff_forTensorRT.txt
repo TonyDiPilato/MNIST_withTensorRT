@@ -1,0 +1,4 @@
+Command to be executed on the shell:
+
+convert-to-uff tensorflow -o name_of_output_uff_file --input-file 
+name_of_input_pb_file -O  name_of_output_tensor
